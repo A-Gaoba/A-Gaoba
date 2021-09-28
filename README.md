@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/a_gaoba" target="blank"><img src="https://img.shields.io/twitter/follow/a_gaoba?logo=twitter&style=for-the-badge" alt="a_gaoba" /></a> </p>
 
-- 🔭 I'm a Student in [UGATU](https://ugatu.su/)
+- 🔭 I'm a Student at [UGATU](https://ugatu.su/)
 
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 
