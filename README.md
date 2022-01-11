@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Gaoba</h1>
 <h3 align="center">A passionate frontend developer from Yemen</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-gaoba&label=Profile%20views&color=0e75b6&style=flat" alt="a-gaoba" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-gaoba" alt="a-gaoba" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/a_gaoba" target="blank"><img src="https://img.shields.io/twitter/follow/a_gaoba?logo=twitter&style=for-the-badge" alt="a_gaoba" /></a> </p>
 
 - 🔭 I'm a Student at [UGATU](https://ugatu.su/)
 
