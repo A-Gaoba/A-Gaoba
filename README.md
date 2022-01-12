@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Gaoba</h1>
-<h3 align="center">A passionate frontend developer from Yemen</h3>
+<!--<h3 align="center">A passionate frontend developer from Yemen</h3>-->
+<h3 align="center">Software Programmer</h3>
 
 
 - 🔭 I'm a Student at [UGATU](https://ugatu.su/)
